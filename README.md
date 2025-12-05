@@ -23,18 +23,6 @@ PROXY-CHECKER is a comprehensive Python-based tool for validating and analyzing 
 
 ---
 
-📂 Project Structure
-
-```
-PROXY-CHECKER/
-├── Checker.py                 # Main script
-├── prox_enc.cpython-312.so    # Encrypted module
-├── README.md                  # Documentation
-└── proxies.txt                # Sample proxy list (optional)
-```
-
----
-
 🛠 Installation & Usage
 
 1. Clone Repository
